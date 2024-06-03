@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628482732197",
+    "project_id": "lista-de-tarefas-compose-47224",
+    "storage_bucket": "lista-de-tarefas-compose-47224.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628482732197:android:954675b4aefe5702a5dd4c",
+        "android_client_info": {
+          "package_name": "com.marcos.listadetarefacompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa97uyFhw9-FqheaaB8_ARmhn9MfhfvVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
